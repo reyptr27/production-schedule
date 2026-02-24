@@ -1,6 +1,7 @@
 {
   "name": "production-schedule",
   "version": "1.0.0",
+  "author": "Reynaldo <reynaldo.informatic@engineer.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -74,4 +74,4 @@ The server will start locally and serve the highly-optimized static & dynamic co
 * **Date Handling Intricacies**: All date math is performed by coercing dates into precise `YYYYMMDD` integer values bound to the `Asia/Jakarta` timezone. This eliminates nasty timezone drift bugs where a "Today" job accidentally slips into "Tomorrow."
 
 ## 📄 License
-This system is an internal tool developed for HFMI usage. All rights reserved.
+This project is open-source and licensed under the [MIT License](LICENSE). Feel free to fork, modify, and use it flexibly in your own manufacturing operations.
